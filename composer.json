@@ -21,5 +21,10 @@
         "psr-4": {
             "AlexPeregrina\\Flysystem\\GoogleDrive\\": "src"
         }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\AlexPeregrina\\Flysystem\\GoogleDrive\\": "tests"
+        }
     }
 }
