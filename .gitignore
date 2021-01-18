@@ -3,3 +3,4 @@
 /.env.local
 /vendor/
 composer.lock
+/build/
