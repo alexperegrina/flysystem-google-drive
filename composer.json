@@ -1,0 +1,24 @@
+{
+    "name": "alexperegrina/flysystem-google-drive",
+    "description": "Flysystem V2 adapter for Google Drive",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Peregrina",
+            "email": "alexperegrina@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2",
+        "league/flysystem": "^2.0",
+        "google/apiclient": "^2.8"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "AlexPeregrina\\Flysystem\\GoogleDrive\\": "src"
+        }
+    }
+}

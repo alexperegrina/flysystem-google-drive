@@ -2,3 +2,4 @@
 .phpunit
 /.env.local
 /vendor/
+composer.lock
